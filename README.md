@@ -1,6 +1,6 @@
 # Pandas_nyc_taxi_2019_01
 
-In this exercise, nyc taxi data in Jan 2019 will be investigated in multiple directions through these 7 questions:
+In this repository, nyc taxi data in Jan 2019 will be investigated in multiple directions through these 7 questions:
 1) How many taxi rides has more thn 8 passengers?
 2) How many taxi rides has 0 passengers?
 3) How many cashes were paid in cash, and cost more than $1000?
